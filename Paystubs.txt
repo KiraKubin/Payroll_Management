@@ -1,0 +1,30 @@
+========== PAYSTUBS ==========
+
+Name: Alice Johnson
+Department ID: MGT-01
+Final Salary: $405000.0
+------------------------------
+Name: Bob Smith
+Department ID: SLS-02
+Final Salary: $181500.0
+------------------------------
+Name: Carol Davis
+Employee ID: SLS-01
+Final Salary: $151200.0
+------------------------------
+Name: David Martinez
+Employee ID: SLS-02
+Final Salary: $166300.0
+------------------------------
+Name: Eve Wilson
+Employee ID: SLS-03
+Final Salary: $143600.0
+------------------------------
+Name: Frank Anderson
+Employee ID: SLS-04
+Final Salary: $196600.0
+------------------------------
+Name: Grace Taylor
+Employee ID: SLS-05
+Final Salary: $158900.0
+------------------------------
